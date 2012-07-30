@@ -48,9 +48,9 @@ sudo apt-get install python-imaging
 
 Set your resolution variables and your download path (make sure it's writeable):
 '''
-DOWNLOAD_PATH = '/home/randomdrake/backgrounds/'
-RESOLUTION_X = 1680
-RESOLUTION_Y = 1050
+DOWNLOAD_PATH = '/home/graham/backgrounds/'
+RESOLUTION_X = 1920
+RESOLUTION_Y = 1200
 ''' 
 
 RUN AT STARTUP
